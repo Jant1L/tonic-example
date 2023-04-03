@@ -7,6 +7,7 @@ inspired by: https://github.com/letsgetrusty/grpc_example
 run server:
 ```sh
 cargo run --bin payments-server
+```
 
 run client:
 ```sh
@@ -14,7 +15,7 @@ cargo run --bin payments-client
 ```
 and then input the corresponding information as prompted
 
-This will outut:
+This will output:
 ```js
 Response=Response { metadata: MetadataMap { headers: 
 {"content-type": "application/grpc", 
