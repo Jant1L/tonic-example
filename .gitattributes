@@ -1,3 +1,0 @@
-*.md linguist-language=rust
-*.proto linguist-language=rust
-*.toml linguist-language=rust
