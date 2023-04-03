@@ -1,0 +1,9 @@
+/home/jantil/cargo_project/grpc-rust-payments/target/debug/deps/futures_channel-f39e990eab28c2e4.rmeta: /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/lib.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/lock.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/mpsc/mod.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/mpsc/queue.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/oneshot.rs
+
+/home/jantil/cargo_project/grpc-rust-payments/target/debug/deps/futures_channel-f39e990eab28c2e4.d: /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/lib.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/lock.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/mpsc/mod.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/mpsc/queue.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/oneshot.rs
+
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/lib.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/lock.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/mpsc/mod.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/mpsc/queue.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/futures-channel-0.3.21/src/oneshot.rs:

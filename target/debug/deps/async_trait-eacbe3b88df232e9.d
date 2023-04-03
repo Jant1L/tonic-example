@@ -1,0 +1,10 @@
+/home/jantil/cargo_project/grpc-rust-payments/target/debug/deps/libasync_trait-eacbe3b88df232e9.so: /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/lib.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/args.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/expand.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/lifetime.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/parse.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/receiver.rs
+
+/home/jantil/cargo_project/grpc-rust-payments/target/debug/deps/async_trait-eacbe3b88df232e9.d: /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/lib.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/args.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/expand.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/lifetime.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/parse.rs /home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/receiver.rs
+
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/lib.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/args.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/expand.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/lifetime.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/parse.rs:
+/home/jantil/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/async-trait-0.1.56/src/receiver.rs:
